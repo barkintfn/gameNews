@@ -1,6 +1,7 @@
 {
   "title": "Vegawon’s Legacy Devlog #2 – November 2024",
   "shortDescription": "In November, we had an intense and productive working period for Vegawon's Legacy. We strengthened our technical infrastructure and introduced many innovations.",
-  "imageUrl": "BURAYA_GITHUBDAN_ALDIGIN_RESIM_LINKINI_YAPISTIRACAKSIN",
+  "imageUrl": "https://github.com/barkintfn/gameNews/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(3).png?raw=true",
   "fullBody": "<b>Dear Vegawon’s Legacy fans,</b>\n\nIn November, we had an intense and productive working period. Here are the important developments:\n\n<size=120%><b>Land of the Crescent: Steam Festival</b></size>\nWe updated our Steam page for the Games from Turkey Steam Festival, adding new cover images and screenshots.\n\n<size=120%><b>More Modular AI System</b></size>\nWe implemented a new modular AI system. This allows all enemies to be derived from a single base class, speeding up development.\n\n<size=120%><b>New Injured System</b></size>\nWhen health falls below 20%, the character enters an injured state:\n• 30% reduction in movement speed.\n• Unique animations depicting injury.\n\n<size=120%><b>First Boss: The Dark Knight</b></size>\nWe’re excited to unveil the first boss:\n• Battle unfolds across three distinct phases.\n• Unique behavior trees in each phase.\n\n<size=120%><b>Physics & Optimization</b></size>\n• More fluid gameplay with reduced glitches.\n• No more sliding enemies.\n\nThank you for your continued support!\n<b>The DWS Interactive Team</b>"
 }
+
