@@ -8,6 +8,8 @@
       "imageUrl": "https://github.com/barkintfn/gameNews/blob/main/Vegawon%20Wallpaper%20Horizontal.png?raw=true",
       "fullBody": "We have pushed a new patch ahead of Steam Next Fest!\n\nWhat's new:\n- Optimized draw calls on the flooded city theme\n- Added 3 new mid-level checkpoints\n- Balloon force coordination now scales smoothly with 3-4 players\n- Fixed a rare desync on the train event\n\nThanks for all the feedback, keep it coming!",
       "date": "2025-05-16"
+      "actionUrl": "https://www.dwsinteractive.com/blog",
+      "actionLabel": "Click for more details"
     },
     {
       "id": "news_002",
@@ -17,6 +19,19 @@
       "imageUrl": "https://raw.githubusercontent.com/KULLANICIN/REPO/main/news/news_002.jpg",
       "fullBody": "Guinea Pig Runaway is now playable during Steam Next Fest!\n\nDownload the free demo, grab a friend, and see how far you can roll.\n\nIf you enjoy it, wishlist the game and drop a review — it helps us a lot.",
       "date": "2025-06-09"
+      "actionUrl": "https://www.dwsinteractive.com/blog",
+      "actionLabel": "Click for more details"
+    },
+    {
+      "id": "patch-1.2",
+      "tag": "PATCH",
+      "title": "v1.2 Güncellendi",
+      "shortDescription": "Hata düzeltmeleri ve performans iyileştirmeleri.",
+      "imageUrl": "https://...",
+      "fullBody": "...",
+      "date": "2025-05-21",
+      "actionUrl": "https://store.steampowered.com/news/app/XXXX",
+      "actionLabel": "Patch Notes'u Gör"
     }
   ]
 }
