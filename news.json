@@ -3,35 +3,35 @@
     {
       "id": "news_001",
       "tag": "UPDATE",
-      "title": "v0.9.2 - Steam Next Fest Patch",
-      "shortDescription": "Performance improvements, new checkpoints, and balloon physics tweaks.",
+      "title": "Guinea Pig Runaway Together is Out Now in Early Access!",
+      "shortDescription": "Grab a friend and runaway ! Guinea Pig Runaway Together is officially available in Early Access on Steam.",
       "imageUrl": "https://github.com/barkintfn/gameNews/blob/main/Vegawon%20Wallpaper%20Horizontal.png?raw=true",
-      "fullBody": "We have pushed a new patch ahead of Steam Next Fest!\n\nWhat's new:\n- Optimized draw calls on the flooded city theme\n- Added 3 new mid-level checkpoints\n- Balloon force coordination now scales smoothly with 3-4 players\n- Fixed a rare desync on the train event\n\nThanks for all the feedback, keep it coming!",
+      "fullBody": "Guinea Pig Runaway Together has launched in Early Access!\n\nTeam up with a friend, share a balloon, and navigate through chaotic physics-based obstacle courses. The more you coordinate, the faster you roll — and the further you get.\n\nEarly Access means your feedback shapes the game directly. Jump in, play, and let us know what you think. ",
       "date": "2025-05-16",
-      "actionUrl": "https://www.dwsinteractive.com/blog",
+      "actionUrl": "https://store.steampowered.com/app/4244190/Guinea_Pig_Runaway_Together/",
       "actionLabel": "Click for more details"
     },
     {
       "id": "news_002",
       "tag": "EVENT",
-      "title": "Steam Next Fest is Live!",
-      "shortDescription": "Play the demo for free during Steam Next Fest. Leave us a review!",
-      "imageUrl": "https://raw.githubusercontent.com/KULLANICIN/REPO/main/news/news_002.jpg",
-      "fullBody": "Guinea Pig Runaway is now playable during Steam Next Fest!\n\nDownload the free demo, grab a friend, and see how far you can roll.\n\nIf you enjoy it, wishlist the game and drop a review — it helps us a lot.",
+      "title": "Guinea Pig Runaway Together Support Pack",
+      "shortDescription": "Support the development and get exclusive in-game goodies with the Guinea Pig Runaway Together Support Pack.",
+      "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/header.jpg",
+      "fullBody": "Want to help us keep rolling?\n\nThe Guinea Pig Runaway Together Support Pack is now available. It includes exclusive cosmetic items and shows your support for an indie team of three working hard to make the best guinea pig co-op experience possible.\n\nEvery purchase goes directly back into development. Thank you for being part of this journey.",
       "date": "2025-06-09",
-      "actionUrl": "https://www.dwsinteractive.com/blog",
+      "actionUrl": "https://store.steampowered.com/app/4244190/Guinea_Pig_Runaway_Together/",
       "actionLabel": "Click for more details"
     },
     {
       "id": "patch-1.2",
       "tag": "PATCH",
-      "title": "v1.2 Güncellendi",
-      "shortDescription": "Hata düzeltmeleri ve performans iyileştirmeleri.",
-      "imageUrl": "",
-      "fullBody": "...",
+      "title": "Vegawon's Legacy — Wishlist Now on Steam",
+      "shortDescription": "A new adventure from DWS Interactive. Wishlist Vegawon's Legacy on Steam!",
+      "imageUrl": "https://github.com/barkintfn/gameNews/blob/main/Vegawon%20Wallpaper%20Horizontal.png?raw=true",
+      "fullBody": "While we keep rolling with Guinea Pig Runaway Together, we also have something else brewing.\n\nVegawon's Legacy is a separate project from DWS Interactive. We are not going anywhere Guinea Pig Runaway Together development continues as planned.\n\nIf you are curious, head over to the Steam page and add it to your wishlist. It means a lot to us.",
       "date": "2025-05-21",
-      "actionUrl": "https://store.steampowered.com/news/app/XXXX",
-      "actionLabel": "Patch Notes'u Gör"
+      "actionUrl": "https://store.steampowered.com/app/3194500/Vegawons_Legacy",
+      "actionLabel": "Wishlist on Steam"
     }
   ]
 }
