@@ -2,7 +2,7 @@
   "news": [
     {
       "id": "news_001",
-      "tag": "UPDATE",
+      "tag": "NEWS",
       "title": "Guinea Pig Runaway Together is Out Now in Early Access!",
       "shortDescription": "Grab a friend and runaway ! Guinea Pig Runaway Together is officially available in Early Access on Steam.",
       "imageUrl": "https://github.com/barkintfn/gameNews/blob/main/Vegawon%20Wallpaper%20Horizontal.png?raw=true",
@@ -13,7 +13,7 @@
     },
     {
       "id": "news_002",
-      "tag": "EVENT",
+      "tag": "NEWS",
       "title": "Guinea Pig Runaway Together Support Pack",
       "shortDescription": "Support the development and get exclusive in-game goodies with the Guinea Pig Runaway Together Support Pack.",
       "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/header.jpg",
@@ -24,7 +24,7 @@
     },
     {
       "id": "patch-1.2",
-      "tag": "PATCH",
+      "tag": "NEWS",
       "title": "Vegawon's Legacy — Wishlist Now on Steam",
       "shortDescription": "A new adventure from DWS Interactive. Wishlist Vegawon's Legacy on Steam!",
       "imageUrl": "https://github.com/barkintfn/gameNews/blob/main/Vegawon%20Wallpaper%20Horizontal.png?raw=true",
