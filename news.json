@@ -1,20 +1,20 @@
 {
   "news": [
-    {
-  "id": "news_002",
+   {
+  "id": "news_001",
   "tag": "UPDATE",
-  "title": "Patch Notes — v0.1.2",
-  "shortDescription": "We've been reading your reviews and feedback since launch this update addresses the most reported issues along with a few small improvements. More to come.",
-  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/5.png",
-  "fullBody": "We've been reading your reviews and feedback since launch, this update addresses the most reported issues along with a few small improvements. More to come.\n\nBUG FIXES\n- Fixed missing localization inputs\n- Fixed several UI issues\n- Fixed physics errors that caused certain traps to launch players at uncontrollable speeds\n- Fixed bomb event synchronization issue between host and client\n- Fixed a bug that occasionally prevented death on water contact\n\nIMPROVEMENTS\n- Improved level design\n- Improved character controls — the balloon should now feel more responsive and fluid to navigate\n- Improved physics system\n- Improved overall UI experience\n- Improved error detection: the game will now automatically detect out-of-bounds situations and return you to the nearest checkpoint\n- Increased bomb size in the bomb event\n- Various improvements for controller players\n- Updated controller cursor\n\nNEW LANGUAGES\n- Added Malay\n- Added Brazilian Portuguese\n\nKNOWN ISSUES (we're actively working on these)\n- Some visual effects may appear incorrectly\n- Certain languages may display typos or incorrect text\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DWS Interactive",
-  "date": "2026-06-05",
-  "actionUrl": "https://store.steampowered.com/news/app/4244190/view/715655143637385996?",
+  "title": "Patch Notes — v0.1.3",
+  "shortDescription": "Quick follow-up patch with a few fixes and improvements — including in-game bug reporting and a wall run rework.",
+  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/Early%20Acces%20Release%20Trailer%20(5).png",
+  "fullBody": "Quick follow-up patch with a few fixes and improvements.\n\nBUG FIXES\n- Fixed a critical bug that could corrupt save files under specific conditions\n- Fixed incorrect particle effects\n- Fixed various minor bugs\n\nIMPROVEMENTS\n- Improved wall run — easier and more consistent to execute\n- Various level design improvements\n- Various UI improvements\n- Minor performance improvements\n- You can now report bugs directly from within the game\n\nKNOWN ISSUES (we're actively working on these)\n- Certain languages may display typos or incorrect text\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DWS Interactive",
+  "date": "2026-06-06",
+  "actionUrl": "https://store.steampowered.com/news/app/4244190/view/715655143637386145?",
   "actionLabel": "View on Steam"
-    },
+}
     {
       "id": "news_002",
       "tag": "NEWS",
-      "title": "Guinea Pig Runaway Together Support Pack",
+      "title": "Guinea Pig Runaway Together Supporter Pack",
       "shortDescription": "Support the development and get exclusive in-game goodies with the Guinea Pig Runaway Together Support Pack.",
       "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/page_bg_raw.jpg",
       "fullBody": "Want to help us keep rolling?\n\nThe Guinea Pig Runaway Together Support Pack is now available. It includes exclusive cosmetic items and shows your support for an indie team of three working hard to make the best guinea pig co-op experience possible.\n\nEvery purchase goes directly back into development. Thank you for being part of this journey.",
