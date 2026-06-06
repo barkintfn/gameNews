@@ -1,7 +1,7 @@
 {
   "news": [
    {
-  "id": "news_001",
+  "id": "news_002",
   "tag": "UPDATE",
   "title": "Patch Notes — v0.1.3",
   "shortDescription": "Quick follow-up patch with a few fixes and improvements — including in-game bug reporting and a wall run rework.",
@@ -13,7 +13,7 @@
 }
     {
       "id": "news_002",
-      "tag": "NEWS",
+      "tag": "DLC",
       "title": "Guinea Pig Runaway Together Supporter Pack",
       "shortDescription": "Support the development and get exclusive in-game goodies with the Guinea Pig Runaway Together Support Pack.",
       "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/page_bg_raw.jpg",
