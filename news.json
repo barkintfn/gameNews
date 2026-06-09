@@ -1,14 +1,14 @@
 {
   "news": [
-   {
-  "id": "news_002",
+  {
+  "id": "news_004",
   "tag": "UPDATE",
-  "title": "Patch Notes — v0.1.3",
-  "shortDescription": "Quick follow-up patch with a few fixes and improvements — including in-game bug reporting and a wall run rework.",
-  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/Early%20Acces%20Release%20Trailer%20(5).png",
-  "fullBody": "Quick follow-up patch with a few fixes and improvements.\n\nBUG FIXES\n- Fixed a critical bug that could corrupt save files under specific conditions\n- Fixed incorrect particle effects\n- Fixed various minor bugs\n\nIMPROVEMENTS\n- Improved wall run — easier and more consistent to execute\n- Various level design improvements\n- Various UI improvements\n- Minor performance improvements\n- You can now report bugs directly from within the game\n\nKNOWN ISSUES (we're actively working on these)\n- Certain languages may display typos or incorrect text\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DWS Interactive",
-  "date": "2026-06-06",
-  "actionUrl": "https://store.steampowered.com/news/app/4244190/view/715655143637386145?",
+  "title": "Patch Notes — v0.2",
+  "shortDescription": "The biggest update since launch — two difficulty modes,Camera improvements, major bug fixes, rendering optimizations, and more.",
+  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/Early%20Acces%20Release%20Trailer%20(6).png",
+  "fullBody": "This is the biggest update since launch. A lot has changed under the hood and on the surface — here's what's new.\n\nBUG FIXES\n- Fixed a bug that caused audio to play quieter than intended on certain devices\n- Fixed lighting issues across the map\n- Fixed a bug that prevented the balloon from casting shadows when interacting with certain light sources\n- Fixed a bug that caused the game to launch in the wrong language\n- Fixed a bug that caused certain characters to not render in some languages\n- Fixed various other localization issues\n- Fixed particle effects not displaying correctly\n- Fixed a bug that caused players to spawn facing the wrong direction at checkpoints\n- Fixed a bug that caused certain platforms to not sync correctly on the server, resulting in different players seeing them in different positions\n- Fixed a bug that caused some players to not see the elevator in the construction zone\n- Fixed various minor bugs\n\nIMPROVEMENTS\n- Increased overall audio volume\n- Improved peer-to-peer online system\n- Improved balloon rotation — turns are now more consistent and controlled\n- Improved wall run\n- Improved camera system\n- Increased camera auto-align delay from 0.5s to 0.95s\n- Camera auto-align can now be disabled from settings\n- Improved controller support\n- Improved shader compilation\n- Rendering optimizations — expect more consistent visual quality and better performance overall\n- Improved physics system\n- Various level design improvements across the map\n- Difficulty rebalancing\n- Increased bomb size and count in the bomb sequence\n- Overhauled camera shake — transitions are now smoother and consecutive disruptive shakes have been removed\n\nNEW FEATURES\n- Added two distinct physics modes:\n  Standard — The original physics. The balloon carries full weight and momentum, so steady progress comes down to timing and tight coordination between players.\n  Easy — Casual physics. Movement is more responsive and forgiving with direct control, so the balloon is easier to handle while teamwork still moves you forward.\n\nKNOWN ISSUES (we're actively working on these)\n- Under very specific conditions, there is a rare chance the camera becomes unresponsive. We are still investigating this.\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DWS Interactive",
+  "date": "2026-06-09",
+  "actionUrl": "https://store.steampowered.com/news/app/4244190/",
   "actionLabel": "View on Steam"
 },
     {
