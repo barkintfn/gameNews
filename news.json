@@ -32,6 +32,17 @@
       "date": "2026-05-21",
       "actionUrl": "https://store.steampowered.com/app/3194500/Vegawons_Legacy",
       "actionLabel": "Wishlist on Steam"
-    }
+    },
+    {
+  "id": "news_007",
+  "tag": "NEWS",
+  "title": "Join Our Discord!",
+  "shortDescription": "Connect with the developers, join giveaways, meet other players, and stay up to date on everything Guinea Pig Runaway Together.",
+  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/Early%20Acces%20Release%20Trailer%20(10).png",
+  "fullBody": "We have an official Discord server and we'd love to have you there.\n\nWHAT'S WAITING FOR YOU\n- Talk directly with the developers\n- Join exclusive giveaways\n- Connect with other players\n- Share feedback, bug reports, and suggestions\n- Get the latest news and updates before anyone else\n- And much more\n\nCome say hi — we're active and we read everything.",
+  "date": "2026-06-18",
+  "actionUrl": "https://discord.gg/esTGmmBtfb?proof=8de92c1d63ef5498",
+  "actionLabel": "Join Discord"
+}
   ]
 }
