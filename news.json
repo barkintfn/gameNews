@@ -1,13 +1,13 @@
 {
   "news": [
   {
-  "id": "news_006",
+  "id": "news_008",
   "tag": "UPDATE",
-  "title": "Patch Notes — v0.3.0 Major Update",
-  "shortDescription": "Our biggest update yet — over 1 hour of new content, a full map overhaul, and various improvements.",
-  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/Early%20Acces%20Release%20Trailer%20(9).png",
-  "fullBody": "Our biggest update yet. The map has been overhauled, new content has been added, and a lot has been improved under the hood.\n\nBUG FIXES & IMPROVEMENTS\n- Various bug fixes\n- Performance improvements across the board\n- Online system improvements\n- General UX improvements\n\nMAP OVERHAUL & NEW CONTENT\n- The entire map has been revised — certain sections are now more challenging, others have been adjusted and smoothed out\n- Over 1 hour of new content added\n- New puzzles and events\n- New obstacles designed to test coordination between players\n- New easter eggs hidden throughout the map for players to discover\n\nKNOWN ISSUES (we're actively working on these)\n- Some AMD GPU users may experience very low FPS due to a driver-level issue affecting AMD Radeon cards. Updating your drivers resolves it in most cases.\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DWS Interactive",
-  "date": "2026-06-18",
+  "title": "Patch Notes — v0.4.0",
+  "shortDescription": "Local co-op is finally here — grab a friend and play side by side on the same device.",
+  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/1920_1080.png",
+  "fullBody": "The most requested feature is finally here — local co-op. Grab a friend and play side by side on the same couch.\n\nNEW FEATURES\n- Local co-op mode is now available — up to 2 players can play together on the same device\n\nBUG FIXES\n- Fixed various errors that occurred when joining a lobby\n- Fixed a bug that caused the loading screen to not display correctly in certain situations\n- Fixed various minor bugs\n\nIMPROVEMENTS\n- Various map improvements\n- UI usability improvements\n- Checkpoint positions adjusted based on player feedback\n\nKNOWN ISSUES (we're actively working on these)\n- Some AMD GPU users may experience very low FPS due to a driver-level issue affecting AMD Radeon cards. Updating your drivers resolves it in most cases.\n- On lower-end PCs, the map may fail to load or load incompletely. We are actively investigating this.\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DWS Interactive",
+  "date": "2026-07-03",
   "actionUrl": "https://store.steampowered.com/news/app/4244190/",
   "actionLabel": "View on Steam"
 },
