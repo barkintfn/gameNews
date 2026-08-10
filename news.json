@@ -1,13 +1,13 @@
 {
   "news": [
   {
-  "id": "news_010",
+  "id": "news_011",
   "tag": "UPDATE",
-  "title": "Patch Notes — v0.5.2",
-  "shortDescription": "A small maintenance patch, plus the World Nations Cosmetic Pack DLC is now available.",
-  "imageUrl": "https://github.com/barkintfn/gameNews/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-07-31%20193542.png?raw=true",
-  "fullBody": "A small maintenance patch, plus a brand new cosmetic DLC.\n\nBUG FIXES\n- Fixed a bug that prevented users from changing certain settings in the game's settings menu\n- Minor bug fixes across the game\n- Fixed several typos\n\nIMPROVEMENTS\n- Optimizations for lower-end systems\n- Small general improvements\n\nKNOWN ISSUES (we're actively working on these)\n- Some AMD GPU users may experience very low FPS due to a driver-level issue affecting AMD Radeon cards. Updating your drivers resolves it in most cases.\n- On lower-end PCs, the map may fail to load or load incompletely. We are actively investigating this.\n\nNEW DLC: WORLD NATIONS COSMETIC PACK\nShow Your True Colors!\n\nTake your guinea pig on an international adventure! With the World Nations Cosmetic Pack, you can personalize your character with themed bucket hats and customized flag backpacks representing 20 different countries.\n\nWhether you're teaming up with friends online or running through challenges solo, wear your flag with pride and style!\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DVS Interactive",
-  "date": "2026-08-05",
+  "title": "Patch Notes — v0.6.0",
+  "shortDescription": "Multiplayer stability improvements, Flooded City map updates, and gamepad fixes.",
+  "imageUrl": "https://github.com/barkintfn/gameNews/blob/main/ss_f0f0093203da57881d7affa5c053f38af2a49c7f.1920x1080%20(1).jpg?raw=true",
+  "fullBody": "A stability and polish patch.\n\nBUG FIXES\n- Fixed a bug that prevented gamepad players from opening the virtual keyboard under certain conditions\n- Minor bug fixes across the game\n\nIMPROVEMENTS\n- Improved multiplayer connection stability\n- Improved text readability on smaller screens\n- Various improvements and adjustments to the Flooded City map\n- Improved virtual cursor system for gamepad players\n- Various small improvements\n\nKNOWN ISSUES (we're actively working on these)\n- Some AMD GPU users may experience very low FPS due to a driver-level issue affecting AMD Radeon cards. Updating your drivers resolves it in most cases.\n- On lower-end PCs, the map may fail to load or load incompletely. We are actively investigating this.\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DVS Interactive",
+  "date": "2026-08-10",
   "actionUrl": "https://store.steampowered.com/news/app/4244190/",
   "actionLabel": "View on Steam"
 },
