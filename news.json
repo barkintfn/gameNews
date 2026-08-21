@@ -1,13 +1,13 @@
 {
   "news": [
   {
-  "id": "news_011",
+  "id": "news_012",
   "tag": "UPDATE",
-  "title": "Patch Notes — v0.6.0",
-  "shortDescription": "Multiplayer stability improvements, Flooded City map updates, and gamepad fixes.",
-  "imageUrl": "https://github.com/barkintfn/gameNews/blob/main/ss_f0f0093203da57881d7affa5c053f38af2a49c7f.1920x1080%20(1).jpg?raw=true",
-  "fullBody": "A stability and polish patch.\n\nBUG FIXES\n- Fixed a bug that prevented gamepad players from opening the virtual keyboard under certain conditions\n- Minor bug fixes across the game\n\nIMPROVEMENTS\n- Improved multiplayer connection stability\n- Improved text readability on smaller screens\n- Various improvements and adjustments to the Flooded City map\n- Improved virtual cursor system for gamepad players\n- Various small improvements\n\nKNOWN ISSUES (we're actively working on these)\n- Some AMD GPU users may experience very low FPS due to a driver-level issue affecting AMD Radeon cards. Updating your drivers resolves it in most cases.\n- On lower-end PCs, the map may fail to load or load incompletely. We are actively investigating this.\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DVS Interactive",
-  "date": "2026-08-10",
+  "title": "Patch Notes — v0.7.0",
+  "shortDescription": "Flooded City improvements, major graphics performance optimizations, and various bug fixes.",
+  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/5.png",
+  "fullBody": "A big focus on Flooded City polish and performance this time around.\n\nBUG FIXES\n- Fixed a bug that rarely caused guinea pigs to appear outside the balloon\n- Fixed a rare desync between host and client guinea pig animations\n- Fixed a bug that caused the Skin and Outfit tabs to overlap in the customization panel\n- Fixed a bug that prevented the virtual cursor from appearing for gamepad users on the Credits screen\n- Fixed a bug that prevented the launch message from appearing for new players\n\nIMPROVEMENTS\n- Visual improvements to the Flooded City level\n- The rolling boulder in Flooded City now moves slower, making it easier to escape\n- Sinking platform timers in Flooded City have been adjusted based on player feedback\n- Optimizations and fine-tuning to the server connection process for players with slower internet\n- Various leaderboard improvements\n- Reworked the Medium and Low graphics presets from the ground up — players on lower settings should see a solid FPS boost, especially on older GPUs\n- Improved texture memory handling, reducing stutters and helping with map loading issues on lower-end PCs\n- Optimized shadow rendering across all quality levels\n- Adjusted level-of-detail distances so the game spends less time rendering things you can't actually see\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DVS Interactive",
+  "date": "2026-08-19",
   "actionUrl": "https://store.steampowered.com/news/app/4244190/",
   "actionLabel": "View on Steam"
 },
