@@ -1,16 +1,27 @@
 {
   "news": [
-  {
-  "id": "news_012",
-  "tag": "UPDATE",
-  "title": "Patch Notes — v0.7.0",
-  "shortDescription": "Flooded City improvements, major graphics performance optimizations, and various bug fixes.",
-  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/ss_e7745cc9fc7f5e69c15ca60f9bda825d8041cfad.1920x1080.jpg",
-  "fullBody": "A big focus on Flooded City polish and performance this time around.\n\nBUG FIXES\n- Fixed a bug that rarely caused guinea pigs to appear outside the balloon\n- Fixed a rare desync between host and client guinea pig animations\n- Fixed a bug that caused the Skin and Outfit tabs to overlap in the customization panel\n- Fixed a bug that prevented the virtual cursor from appearing for gamepad users on the Credits screen\n- Fixed a bug that prevented the launch message from appearing for new players\n\nIMPROVEMENTS\n- Visual improvements to the Flooded City level\n- The rolling boulder in Flooded City now moves slower, making it easier to escape\n- Sinking platform timers in Flooded City have been adjusted based on player feedback\n- Optimizations and fine-tuning to the server connection process for players with slower internet\n- Various leaderboard improvements\n- Reworked the Medium and Low graphics presets from the ground up — players on lower settings should see a solid FPS boost, especially on older GPUs\n- Improved texture memory handling, reducing stutters and helping with map loading issues on lower-end PCs\n- Optimized shadow rendering across all quality levels\n- Adjusted level-of-detail distances so the game spends less time rendering things you can't actually see\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DVS Interactive",
-  "date": "2026-08-19",
-  "actionUrl": "https://store.steampowered.com/news/app/4244190/",
-  "actionLabel": "View on Steam"
-},
+    {
+      "id": "news_012",
+      "tag": "UPDATE",
+      "title": "Patch Notes — v0.7.0",
+      "shortDescription": "Flooded City improvements, major graphics performance optimizations, and various bug fixes.",
+      "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/ss_e7745cc9fc7f5e69c15ca60f9bda825d8041cfad.1920x1080.jpg",
+      "fullBody": "A big focus on Flooded City polish and performance this time around.\n\nBUG FIXES\n- Fixed a bug that rarely caused guinea pigs to appear outside the balloon\n- Fixed a rare desync between host and client guinea pig animations\n- Fixed a bug that caused the Skin and Outfit tabs to overlap in the customization panel\n- Fixed a bug that prevented the virtual cursor from appearing for gamepad users on the Credits screen\n- Fixed a bug that prevented the launch message from appearing for new players\n\nIMPROVEMENTS\n- Visual improvements to the Flooded City level\n- The rolling boulder in Flooded City now moves slower, making it easier to escape\n- Sinking platform timers in Flooded City have been adjusted based on player feedback\n- Optimizations and fine-tuning to the server connection process for players with slower internet\n- Various leaderboard improvements\n- Reworked the Medium and Low graphics presets from the ground up — players on lower settings should see a solid FPS boost, especially on older GPUs\n- Improved texture memory handling, reducing stutters and helping with map loading issues on lower-end PCs\n- Optimized shadow rendering across all quality levels\n- Adjusted level-of-detail distances so the game spends less time rendering things you can't actually see\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DVS Interactive",
+      "date": "2026-08-19",
+      "actionUrl": "https://store.steampowered.com/news/app/4244190/",
+      "actionLabel": "View on Steam"
+    },
+    {
+      "id": "news_013",
+      "tag": "DLC",
+      "title": "World Nations Cosmetic Pack — Out Now!",
+      "shortDescription": "Show your true colors! Personalize your guinea pig with themed hats and flag backpacks from 20 different countries.",
+      "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/header%20(2).jpg",
+      "fullBody": "Take your guinea pig on an international adventure! With the World Nations Cosmetic Pack, you can personalize your character with themed bucket hats and customized flag backpacks representing 20 different countries.\n\nWhether you're teaming up with friends online or running through challenges solo, wear your flag with pride and style!",
+      "date": "2026-08-01",
+      "actionUrl": "https://store.steampowered.com/app/5001950/Guinea_Pig_Runaway_Together__World_Nations_Cosmetic_Pack/",
+      "actionLabel": "View on Steam"
+    },
     {
       "id": "news_002",
       "tag": "DLC",
@@ -34,15 +45,15 @@
       "actionLabel": "Wishlist on Steam"
     },
     {
-  "id": "news_007",
-  "tag": "NEWS",
-  "title": "Join Our Discord!",
-  "shortDescription": "Connect with the developers, join giveaways, meet other players, and stay up to date on everything Guinea Pig Runaway Together.",
-  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/Early%20Acces%20Release%20Trailer%20(10).png",
-  "fullBody": "We have an official Discord server and we'd love to have you there.\n\nWHAT'S WAITING FOR YOU\n- Talk directly with the developers\n- Join exclusive giveaways\n- Connect with other players\n- Share feedback, bug reports, and suggestions\n- Get the latest news and updates before anyone else\n- And much more\n\nCome say hi — we're active and we read everything.",
-  "date": "2026-06-18",
-  "actionUrl": "https://discord.gg/esTGmmBtfb?proof=8de92c1d63ef5498",
-  "actionLabel": "Join Discord"
-}
+      "id": "news_007",
+      "tag": "NEWS",
+      "title": "Join Our Discord!",
+      "shortDescription": "Connect with the developers, join giveaways, meet other players, and stay up to date on everything Guinea Pig Runaway Together.",
+      "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/Early%20Acces%20Release%20Trailer%20(10).png",
+      "fullBody": "We have an official Discord server and we'd love to have you there.\n\nWHAT'S WAITING FOR YOU\n- Talk directly with the developers\n- Join exclusive giveaways\n- Connect with other players\n- Share feedback, bug reports, and suggestions\n- Get the latest news and updates before anyone else\n- And much more\n\nCome say hi — we're active and we read everything.",
+      "date": "2026-06-18",
+      "actionUrl": "https://discord.gg/esTGmmBtfb?proof=8de92c1d63ef5498",
+      "actionLabel": "Join Discord"
+    }
   ]
 }
