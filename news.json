@@ -1,16 +1,16 @@
 {
   "news": [
     {
-      "id": "news_012",
-      "tag": "UPDATE",
-      "title": "Patch Notes — v0.7.0",
-      "shortDescription": "Flooded City improvements, major graphics performance optimizations, and various bug fixes.",
-      "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/ss_e7745cc9fc7f5e69c15ca60f9bda825d8041cfad.1920x1080.jpg",
-      "fullBody": "A big focus on Flooded City polish and performance this time around.\n\nBUG FIXES\n- Fixed a bug that rarely caused guinea pigs to appear outside the balloon\n- Fixed a rare desync between host and client guinea pig animations\n- Fixed a bug that caused the Skin and Outfit tabs to overlap in the customization panel\n- Fixed a bug that prevented the virtual cursor from appearing for gamepad users on the Credits screen\n- Fixed a bug that prevented the launch message from appearing for new players\n\nIMPROVEMENTS\n- Visual improvements to the Flooded City level\n- The rolling boulder in Flooded City now moves slower, making it easier to escape\n- Sinking platform timers in Flooded City have been adjusted based on player feedback\n- Optimizations and fine-tuning to the server connection process for players with slower internet\n- Various leaderboard improvements\n- Reworked the Medium and Low graphics presets from the ground up — players on lower settings should see a solid FPS boost, especially on older GPUs\n- Improved texture memory handling, reducing stutters and helping with map loading issues on lower-end PCs\n- Optimized shadow rendering across all quality levels\n- Adjusted level-of-detail distances so the game spends less time rendering things you can't actually see\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DVS Interactive",
-      "date": "2026-08-19",
-      "actionUrl": "https://store.steampowered.com/news/app/4244190/",
-      "actionLabel": "View on Steam"
-    },
+  "id": "news_014",
+  "tag": "UPDATE",
+  "title": "Patch Notes — v0.8.0",
+  "shortDescription": "Voice chat and colorblind support are here, plus critical bug fixes and Flooded City improvements.",
+  "imageUrl": "https://raw.githubusercontent.com/barkintfn/gameNews/refs/heads/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-09-18%20174225.png",
+  "fullBody": "Voice chat and colorblind support are here — plus a batch of important fixes.\n\nNEW FEATURES\n- Added voice chat — talk to your friends live while playing together. Can be fully disabled from settings if you prefer\n- Added colorblind support — choose between Protanopia, Deuteranopia, and Tritanopia options in settings\n\nBUG FIXES\n- Fixed a very rare bug that prevented all players from moving at game start\n- Fixed a very rare bug that caused sudden disconnections right after joining a lobby\n- Fixed a bug that caused certain keys to display incorrectly in the Controls tab in settings\n- Fixed a critical bug that prevented settings from being changed after viewing the tutorial\n- Fixed a critical bug that caused the feedback system to not work\n- Fixed a bug that caused player names to display incorrectly in-game\n- Fixed a bug that caused cars to be missing from traffic in Hardcore mode\n- Fixed various visual effect bugs\n\nIMPROVEMENTS\n- Various adjustments and improvements to the Flooded City map based on player feedback\n- Improved connection stability\n\nHave a bug to report, a suggestion, or something you'd like to see in the game? Leave a review, use the in-game feedback button, or reach us on Discord. We read everything and do our best to make it happen.\n\n— DVS Interactive",
+  "date": "2026-08-27",
+  "actionUrl": "https://store.steampowered.com/news/app/4244190/",
+  "actionLabel": "View on Steam"
+},
     {
       "id": "news_013",
       "tag": "DLC",
